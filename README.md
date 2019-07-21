@@ -1,4 +1,4 @@
-# Multinomial Text Classification of Medical Records by Clinical Domain
+# Text Classification of Medical Records by Clinical Domain
 
 Within the the field of medicine there are a number of practices in which physicians may choose to specialize. These subspecialties of medicine include everything from general medicine, which deals with with the prevention, diagnosis, and treatment of disease, to highly specialized fields concerned with the anatomy and function of complex systems within the human body, including fields like cardiology and neurology to name a few. The vast number of subspecialties within the field of medicine often times creates a murky connotation for the role of a ‘physician’, a term used to describe a person qualified to practice medicine, despite the fact that two physicians working in different specialties of medicine have drastically different talents and knowledge within their respective fields.
 
